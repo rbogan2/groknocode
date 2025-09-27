@@ -8,3 +8,7 @@ requests
 flask
 loguru
 jsonify
+curl_cffi
+werkzeug
+python-dotenv
+playwright
